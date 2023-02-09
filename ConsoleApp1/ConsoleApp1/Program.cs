@@ -29,6 +29,10 @@ namespace ConsoleApp1
             Console.WriteLine("A multiplicação da soma é: {0} ", soma * mult);
 
             Console.ReadLine();
+            /*
+                trestessste     
+            resds
+             */
         }
     }
 }
